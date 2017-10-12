@@ -34,7 +34,11 @@ display: inline-block;
 
    #logo h2 {
      font-size: 2.2em;
-     
+
+   }
+
+   #social {
+     top: 72px;
    }
 
 }
