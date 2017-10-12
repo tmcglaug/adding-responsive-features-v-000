@@ -68,4 +68,9 @@ display: inline-block;
 
    }
 
+   .border {
+      border: 0;
+     
+   }
+
 }
