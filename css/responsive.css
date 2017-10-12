@@ -104,4 +104,12 @@ display: inline-block;
   width: auto;
 }
 
+#logo {
+  paddign: 60px 0 0;
+}
+
+#social {
+  top: 60px;
+}
+
 }
