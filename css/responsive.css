@@ -44,3 +44,9 @@ display: inline-block;
 }
 
 @media only screen (max-width: 800px)
+{
+  #navbar nav a {
+    font-size:   0.9em;
+  }
+  
+}
