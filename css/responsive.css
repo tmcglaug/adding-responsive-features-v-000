@@ -60,6 +60,9 @@ display: inline-block;
 
 @media only screen and (max-width: 750px)
 {
+   .col-1, .col-2, .col-3 {
 
-  
+     
+   }
+
 }
